@@ -43,3 +43,13 @@ You should keep as many metrics as possible and write up reports on them in your
 * Use NGINX as a reverse proxy
 * Version Docker images
 * Include DAST Testing and Artefact Scanning
+
+## Submission
+You should create a Git repository that contains the code for the 4 services and any files you created to deploy your application including Dockerfiles, playbooks, reports etc.
+You are also expected to make a README.md file and to fill this README with information of this challenge. It should contain the following headers.
+
+* Why are we doing this?
+* How I expected the challenge to go.
+* What went well?
+* What didn't go as planned?
+* Possible improvements for future challenges.
