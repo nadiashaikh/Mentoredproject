@@ -1,17 +1,5 @@
 # Mentored Project
 
-### Why are we doing this?
-To be competent in the use of Ansible, Jenkins, NGINX, Docker, SAST and DAST testing.
-
-### How I expected the challenge to go.
-
-### What went well?
-
-### What didn't go as planned?
-
-### Possible improvements for future challenges.
-
-
 ## Tasks
 
 Here a Python application that is made up of 4 different services.
