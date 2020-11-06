@@ -54,6 +54,7 @@ I wanted to do the stretch Goals too but the VM crashed 2 hours before the estim
 
 ### Possible improvements for future challenges.
 
+I have to effectively priortise my worklode with excelent time-managementing skills.
 I need to practice more for me to be prepaired for the live environment.
 
   
