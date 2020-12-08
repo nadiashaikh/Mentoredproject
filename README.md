@@ -46,11 +46,12 @@ The project is a good way to exibit my learing levels after 4 weeks of NBS DevOp
 
 ### What went well?
 
-I have been able to multi task and have learned to time manage tasks, training and project completion. 
+I have been able to multi task and have learned to time manage tasks, training and project completion. I am happy i could do nexus repo well. 
 
 ### What didn't go as planned?
 
 I wanted to do the stretch Goals too but the VM crashed 2 hours before the estimated time so i could not compleate as i decided.
+I tried the stretch goals but was not successfull. 
 
 ### Possible improvements for future challenges.
 
